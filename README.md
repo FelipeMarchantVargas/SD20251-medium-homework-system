@@ -52,7 +52,7 @@ Descargar desde https://rabbitmq.com/install-windows.html
 1. Clonar el repositorio:
 
 ```
-git clone https://github.com/mxidev/SD20251-simple-homework-system.git
+git clone https://github.com/FelipeMarchantVargas/SD20251-medium-homework-system.git
 cd SD20251-medium-homework-system
 ```
 
